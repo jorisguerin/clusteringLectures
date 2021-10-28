@@ -1,1 +1,1 @@
-# clusteringLectures
+# Introduction to clustering

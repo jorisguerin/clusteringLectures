@@ -1,0 +1,9 @@
+name: clustering_lectures
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0
+  - RISE=5.7
+  - numpy=1.21
+  - matplotlib=3.4
+  - scikit-learn=1.0
