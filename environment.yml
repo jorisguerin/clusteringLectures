@@ -7,4 +7,3 @@ dependencies:
   - numpy=1.21
   - matplotlib=3.4
   - scikit-learn=1.0
-  -
