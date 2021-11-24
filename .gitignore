@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+Exploration/
+Data/recom-jouet.dat
+Data/ml-100k
+Data/ml-100k.zip
